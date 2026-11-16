@@ -1,0 +1,10 @@
+PERRO SANCHEZ: EL PODER DE ABASCAL
+Proyecto homebrew Nintendo DS/DSi (libnds).
+
+Controles: cruceta izquierda/derecha para moverse; B para saltar; START pausa.
+Menu: A jugar, Y creditos.
+
+El personaje Pedro usa 8 fotogramas pixel-art incluidos en source/pedro_sprites.h y assets/.
+
+Compilacion: ejecutar make en devkitPro/devkitARM o subir el proyecto a GitHub con Actions habilitado.
+El archivo .nds se genera como PerroSanchez_DS.nds.
